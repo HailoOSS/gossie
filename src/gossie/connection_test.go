@@ -2,7 +2,7 @@ package gossie
 
 import (
 	"errors"
-	_ "github.com/hailocab/gossie/src/cassandra"
+	_ "github.com/HailoOSS/gossie/src/cassandra"
 	"testing"
 	"time"
 )
